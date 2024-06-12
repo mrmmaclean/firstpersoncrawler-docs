@@ -2,7 +2,7 @@
 
 Created by Mike MacLean (c)2024 grimmrobegames.itch.io - All rights reserved.
 
-Copying and distribution of the the source files for this plugin without the author's express permission is not permitted. Please respect my work and compensate me for my labour by purchasing this plugin at https://grimmrobegames.itch.io/
+Copying and distribution of the the source files for this plugin without the author's express permission is not permitted. Please respect my work and compensate me for my labour by purchasing this plugin at [https://grimmrobegames.itch.io/](https://grimmrobegames.itch.io/dungeoncrawlerplugin)
 
 ## Installing and setting up the plugin
 

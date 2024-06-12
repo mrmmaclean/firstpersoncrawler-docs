@@ -24,6 +24,9 @@ Copying and distribution of the the source files for this plugin without the aut
 
 This is enough to get the scene running if you press play. In order to interact with the special tiles, see _Interacting with Special Tiles_ later in this guide.
 
+### Controls
+Up to move forward 1 tile, Down to move back 1 tile, Left and Right to turn 90 degrees. If *Press A to move forward* is checked in the *Dungeon Crawler Init* event then the A button moves the player 1 tile forward. If *Hold B to move side to side* is checked then holding the B button and pressing Left or Right will move the player 1 tile to the left or right instead of turning.
+
 ## Breakdown of background image
 
 The following is the background image included in with the plugin. It contains a maximum of 192 unique tiles, a limit of the GB Studio engine (and not an unreasonable limit considering the Game Boy's modest VRAM), and is 512px by 512px, or 64 by 64 tiles, in size. Note, the image is cut short for demonstration purposes. The background can be taller or shorter to make larger or smaller maps as long as it is within the limits of GB Studio background sizes, but the plugin requires the image width to be 512px or 64 tiles.

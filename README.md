@@ -10,11 +10,11 @@ Copying and distribution of the the source files for this plugin without the aut
 2. Add a new scene to the project and set its _Type_ to _First Person Dungeon Crawler_ if using GB Studio 4 or _Point and Click_ if using version 3.2.1.
 3. Set the background to the _crawler_ image provided by the plugin. Optional: Set the _Player Sprite Sheet_ to the _empty_ image provided with the plugin.
 
-<img src="guide/4b_scenetype.png" alt="scene settings for v4" title="Scene Settings" width="480"/>
 _GB Studio version 4_
+<img src="guide/4b_scenetype.png" alt="scene settings for v4" title="Scene Settings" width="480"/>
 
-<img src="guide/4_scenetype.png" alt="scene settings for v3.2.1" title="Scene Settings" width="480"/>
 _GB Studio version 3.2.1_
+<img src="guide/4_scenetype.png" alt="scene settings for v3.2.1" title="Scene Settings" width="480"/>
 
 4. Add a new actor to the scene and name it something like "special actor". Go to the actor's _On Update_ tab and check _Keep Running While Offscreen_. Set the actor's _Collision Group_ to 1. Optional: Set the actor's _Sprite Sheet_ to the _empty_ image provided with the plugin.
 

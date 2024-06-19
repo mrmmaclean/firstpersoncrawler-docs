@@ -1,4 +1,4 @@
-# First Person Crawler Plugin for GB Studio 3.2.1
+# First Person Crawler Plugin for GB Studio
 
 Created by Mike MacLean (c)2024 grimmrobegames.itch.io - All rights reserved.
 
@@ -6,8 +6,8 @@ Copying and distribution of the the source files for this plugin without the aut
 
 ## Installing and setting up the plugin
 
-1. Unzip the file and copy the _plugins_ folder to the root of your GB Studio as per the GB Studio [docs](https://www.gbstudio.dev/docs/extending-gbstudio/plugins). Alternatively, you can open the example project `FirstPersonCrawler.gbsproj`, which has a complete setup, to use as a template.
-2. Add a new scene to the project and set its _Type_ to _Point and Click_.
+1. Download the appropriate archive of the plugin for your installed version of GB Studio (either 3.2.1 or 4). Unzip the file and copy the _plugins_ folder to the root of your GB Studio as per the GB Studio [docs](https://www.gbstudio.dev/docs/extending-gbstudio/plugins). Alternatively, you can open the example project `FirstPersonCrawler.gbsproj`, which has a complete setup, to use as a template.
+2. Add a new scene to the project and set its _Type_ to _First Person Dungeon Crawler_ if using GB Studio 4 or _Point and Click_ if using version 3.2.1.
 3. Set the background to the _crawler_ image provided by the plugin. Optional: Set the _Player Sprite Sheet_ to the _empty_ image provided with the plugin.
 
 <img src="guide/4_scenetype.png" alt="scene settings" title="Scene Settings" width="480"/>

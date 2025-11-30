@@ -28,7 +28,7 @@ _GB Studio version 3.2.1_
 
 6. Position the player to the desired starting position on the map.
 
-7. (Color only mode) Set the scene's common tilemap (click the puzzle piece icon to the right of the background image setting) to the `crawler_tileset.png` in the plugins/tilesets folder. This tileset exactly matches the **Legend** from the background image (explained below), so if you make any changes to the **Legend** this tileset must be updated to match.
+7. (Color only mode) Set the scene's Common Tileset (click the puzzle piece icon to the right of the background image setting) to the `crawler_tileset.png` in the plugins/tilesets folder. This tileset exactly matches the **Legend** from the background image (explained below), so if you make any changes to the **Legend** this tileset must be updated to match.
 
 This is enough to get the scene running if you press play. In order to interact with the special tiles, see _Interacting with Special Tiles_ later in this guide.
 
